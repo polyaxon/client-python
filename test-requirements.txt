@@ -6,7 +6,7 @@ py>=1.4.31
 randomize>=0.13
 mock>=2.0.0
 sphinx==1.6.5 # BSD
-recommonmark
+recommonmark==0.4.0
 codecov>=1.4.0
 pep8
 autopep8
