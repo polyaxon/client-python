@@ -8,6 +8,6 @@ mock>=2.0.0
 sphinx==1.6.5 # BSD
 recommonmark==0.4.0
 codecov>=1.4.0
-pep8
+pep8==1.7.1
 autopep8
 isort
